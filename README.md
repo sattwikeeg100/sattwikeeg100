@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [![MasterHead](https://media4.giphy.com/headers/doniabatata/8vix4BEeacm8.gif)](https://sattwikeeg100.io)
 
 <h1 align="center">Hi 👋, I'm Sattwikee Ghosh</h1>
-<h3 align="center">A Computer Science Engg. undergrad and an aspiring Software Engineer.</h3>
+<h3 align="center">A Computer Science & Engineering undergrad and an aspiring Software Engineer.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/6052dba10558ec9e861578de/605609942900a56b7d9547ee_animation_500_kmhu8z1q.gif">
 
