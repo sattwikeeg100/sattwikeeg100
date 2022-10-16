@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sattwikeeg100&show_icons=true&locale=en" alt="sattwikeeg100" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sattwikeeg100&" alt="sattwikeeg100" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sattwikeeg100&" alt="sattwikeeg100" /></p>
